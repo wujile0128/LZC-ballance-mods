@@ -1,0 +1,40 @@
+# Visual Studio 编译输出
+Release/
+Debug/
+x64/
+x86/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.log
+*.tlog
+*.recipe
+*.ipdb
+*.vspscc
+*.vssscc
+*.vcxproj.user
+*.vcxproj.filters
+
+# VS 用户配置
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# 临时文件
+*.tmp
+*.bak
+
+# TagLib 静态库（如果你将 tag.lib 放在项目内，请忽略）
+*.lib
+*.a
+
+# 打包文件
+*.zip
+*.7z
+*.rar
